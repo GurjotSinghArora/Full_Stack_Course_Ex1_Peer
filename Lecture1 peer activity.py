@@ -1,3 +1,4 @@
+#Gurjot's main code
 first_number=input("Please enter the first number: ")
 second_number=input("Please enter the second number: ")
 
