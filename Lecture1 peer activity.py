@@ -29,7 +29,7 @@ print("The multiplication of two numbers is: " + str(multi))
 print("The power of two numbers is: " + str(power))
 print("The division of two numbers is: " + str(div))
 
-#Saurav's (Peer) edit
+#Saurav Raj's (Peer) edit
 
 third_number = input("Please enter a third number: ")
 #implementing addition
